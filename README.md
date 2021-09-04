@@ -9,3 +9,6 @@ Result:
 ![Copy of Run and Control DC-Motor by using H-bridge Motor Driver  L293D  in Arduino](https://user-images.githubusercontent.com/85634568/132078105-0485c930-aa24-44bd-a8c3-2087879bdd4c.png)
 
 
+Demo:
+https://user-images.githubusercontent.com/85634568/132078499-b3cd7189-1b48-48fd-ab2a-69ce5967d4af.mov
+
